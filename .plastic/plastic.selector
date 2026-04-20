@@ -1,0 +1,3 @@
+repository "Cloud Repositories/Comp 454 Team Project@2475638455435@cloud"
+  path "/"
+    smartbranch "/main"
